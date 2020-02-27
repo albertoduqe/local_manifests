@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="PixelExperience-Devices/device_xiaomi_lithium" path="device/xiaomi/lithium" remote="github" revision="ten" />
+  <!--project name="albertoduqe/device_xiaomi_lithium" path="device/xiaomi/lithium" remote="github" revision="ten-bliss" /-->
+
+  <project name="PixelExperience-Devices/device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="staging/ten" />
+  <!--project name="albertoduqe/device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="staging/ten-bliss" /-->
+
+  <!--project name="JonasCardoso/android_kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="github" revision="ten-3.18.x" />
+  <project name="MisterJaworro/gemini" path="kernel/xiaomi/msm8996" remote="github" revision="vanilla-3.18" />
+  <project name="MisterJaworro/aarch64" path="kernel/xiaomi/msm8996/aarch64" remote="github" revision="master" />
+  <project name="MisterJaworro/qcacld-2.0" path="kernel/xiaomi/msm8996/drivers/staging/qcacld-2.0" remote="github" revision="master" /-->
+
+  <project name="PixelExperience-Devices/kernel_xiaomi_lithium" path="kernel/xiaomi/msm8996" remote="github" revision="vanilla-3.18" />
+
+  <!--project name="Inkypen79/vendor_mi8996" path="vendor/xiaomi" remote="github" revision="ten" /-->
+  <project name="PixelExperience-Devices/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="ten" />
+
+</manifest>
